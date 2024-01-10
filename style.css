@@ -1,20 +1,28 @@
-div{
+div {
 
-background-color: black;
-color: beige;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-font-size: large;
-
-#navbar {
-
-    color: red;
-}
-
-
-
-#sidebar {
-
-    color: pink;
-}
-
-}
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    
+    #navbar {
+    
+        color: red;
+        font-size: 20px;
+    
+    
+    }
+    
+    #sidebar{
+    
+        color: blue;
+        font-size: 16px;
+    
+    }
+    
+    #main{
+    
+        color: green;
+        font-size: 12px;
+    
+    }
